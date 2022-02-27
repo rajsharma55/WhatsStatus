@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jan 11 15:52:27 IST 2022
+0.base=C\:\\Users\\Raj Sharma\\Desktop\\wss\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

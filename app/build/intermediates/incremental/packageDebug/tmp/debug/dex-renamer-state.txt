@@ -1,0 +1,4 @@
+#Tue Jan 11 15:49:50 IST 2022
+base.0=C\:\\Users\\Raj Sharma\\Desktop\\wss\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
